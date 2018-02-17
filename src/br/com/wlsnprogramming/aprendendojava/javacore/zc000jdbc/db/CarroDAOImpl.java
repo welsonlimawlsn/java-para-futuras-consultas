@@ -2,6 +2,7 @@ package br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.db;
 
 import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.classes.Carro;
 import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.conn.ConnectionFactory;
+import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.interfaces.DAO;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,8 +11,10 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CarroDAO {
-    public static void save(Carro carro) {
+public class CarroDAOImpl implements DAO<Carro> {
+
+    @Override
+    public void save(Carro carro) {
         try (Connection connection = ConnectionFactory.getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement("INSERT INTO carro (modelo, placa, id_comprador) VALUES (?, ?, ?)")) {
             preparedStatement.setString(1, carro.getNome());
@@ -23,7 +26,8 @@ public class CarroDAO {
         }
     }
 
-    public static void delete(Carro carro) {
+    @Override
+    public void delete(Carro carro) {
         if (carro == null || carro.getId() == null) {
             System.out.println("Não foi possivel excluir esse registro. Carro é nulo, ou as informações estão incompletas");
             return;
@@ -38,7 +42,8 @@ public class CarroDAO {
         }
     }
 
-    public static void update(Carro carro) {
+    @Override
+    public void update(Carro carro) {
         if (carro == null || carro.getId() == null) {
             System.out.println("Não foi possivel excluir esse registro. Carro é nulo, ou as informações estão incompletas");
             return;
@@ -55,7 +60,8 @@ public class CarroDAO {
         }
     }
 
-    public static List<Carro> listAll() {
+    @Override
+    public List<Carro> listAll() {
         try (Connection connection = ConnectionFactory.getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement("SELECT * FROM carro");
              ResultSet resultSet = preparedStatement.executeQuery()) {
@@ -70,7 +76,8 @@ public class CarroDAO {
         return null;
     }
 
-    public static List<Carro> searchByName(String name) {
+    @Override
+    public List<Carro> searchByName(String name) {
         ResultSet resultSet = null;
         try (Connection connection = ConnectionFactory.getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement("SELECT * FROM carro WHERE modelo LIKE ?")) {

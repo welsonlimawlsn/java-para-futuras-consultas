@@ -2,12 +2,15 @@ package br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.test;
 
 import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.classes.Carro;
 import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.classes.Comprador;
-import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.db.CarroDAO;
+import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.db.CarroDAOImpl;
+import br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.interfaces.DAO;
 
 import java.util.List;
 import java.util.Scanner;
 
 public class CarroCRUD {
+
+    private static DAO<Carro> dao = new CarroDAOImpl();
 
     private static Scanner entrada = new Scanner(System.in);
 
@@ -46,7 +49,7 @@ public class CarroCRUD {
 
         carro.setComprador(compradorList.get(Integer.parseInt(entrada.nextLine())));
 
-        CarroDAO.save(carro);
+        dao.save(carro);
 
         System.out.println("============================");
         System.out.println("Carro salvo com sucesso!");
@@ -63,11 +66,11 @@ public class CarroCRUD {
     }
 
     private static List<Carro> listarTodos() {
-        return listar(CarroDAO.listAll());
+        return listar(dao.listAll());
     }
 
     private static void buscar(String nome) {
-        listar(CarroDAO.searchByName(nome));
+        listar(dao.searchByName(nome));
     }
 
     private static void atualizar() {
@@ -94,7 +97,7 @@ public class CarroCRUD {
             carro.setPlaca(placa);
         }
 
-        CarroDAO.update(carro);
+        dao.update(carro);
 
         System.out.println("=================================");
         System.out.println("Carro atualizado com sucesso!");
@@ -110,7 +113,7 @@ public class CarroCRUD {
         System.out.println("ID: " + carro.getId() + " - NOME: " + carro.getNome() + " - PLACA: " + carro.getPlaca() + " - COMPRADOR: " + carro.getComprador().getNome());
         System.out.print("Tem certeza? S/N");
         if (entrada.nextLine().equalsIgnoreCase("S")) {
-            CarroDAO.delete(carro);
+            dao.delete(carro);
         }
 
         System.out.println("===============================");

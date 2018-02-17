@@ -4,7 +4,77 @@
     <bookmark url="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/ConnectionTest.java" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5cde5e-b915-4722-afd3-f190c7746d69" name="Default" comment="" />
+    <list default="true" id="cf5cde5e-b915-4722-afd3-f190c7746d69" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Conta.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Entregador.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/ListaMembros.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ContaTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest$ThreadExemplo1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest$ThreadExemplo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/EntregadorTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ListaNomes.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadSafeTest$1RemovedorDeNomes.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadSafeTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/Conta.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/Entregador.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/ListaMembros.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/Contador.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CopyOnWriteTest$RemoverMembros.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CopyOnWriteTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/EntregadorTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/IncrementadorThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LockTest$Worker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LockTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWrite.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest$ReadA.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest$ReadB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest$Write.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/interfaces/DAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Conta.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Entregador.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/ListaMembros.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ContaTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/EntregadorTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadSafeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/Conta.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/Entregador.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/ListaMembros.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/BlockingQueueTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CallableTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaColecoesTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CopyOnWriteTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/EntregadorTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LinkedTransferQueueTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LockTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ScheduledThreadPoolTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000pa/gdroesdeprojeto/test/MoedaFactoryTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Aviao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingleton.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingletonEnum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Moeda.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/MoedaFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pais.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pessoa.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoSingletonEnumTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoSingletonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.class" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadExemploRunnable.class" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadExemploRunnable.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.class" afterPath="$PROJECT_DIR$/out/production/JavaOnline/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAO.java" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAOImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.java" afterPath="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +90,115 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.java">
+      <file leaf-file-name="CarroDAOImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1021">
-              <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+            <state relative-caret-position="1449">
+              <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1518804030128" expanded="true" signature="743:807" ph="INSERT INTO carro... " />
+                <marker date="1518804030128" expanded="true" signature="1553:1581" ph="DELETE FROM carro... " />
+                <marker date="1518804030128" expanded="true" signature="2189:2238" ph="UPDATE carro... " />
+                <marker date="1518804030128" expanded="true" signature="2756:2775" ph="SELECT * FRO... carro" />
+                <marker date="1518804030128" expanded="true" signature="3533:3572" ph="SELECT * FRO... carro" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarroCRUD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1029">
+              <caret line="55" column="59" lean-forward="false" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+              <folding>
+                <element signature="e#2341#2342#0" expanded="true" />
+                <element signature="e#2385#2386#0" expanded="true" />
+                <element signature="e#2432#2433#0" expanded="true" />
+                <element signature="e#2478#2479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Moeda.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Moeda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoedaFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/MoedaFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoedaFactoryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000pa/gdroesdeprojeto/test/MoedaFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pais.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pais.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AviaoSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/interfaces/DAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AviaoSingletonEnum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingletonEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,9 +209,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="FxmlFile" />
         <option value="Singleton" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,6 +227,7 @@
       <find>comprador</find>
       <find>carroes</find>
       <find>nome</find>
+      <find>out</find>
     </findStrings>
     <replaceStrings>
       <replace>sum</replace>
@@ -61,6 +235,9 @@
       <replace>carro</replace>
       <replace>carros</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -70,40 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/x000nio/test/DosFileAttributeTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/x000nio/test/DirectoryStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/x000nio/test/FileVisitorTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/x000nio/test/PathMactherTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/w000io/test/StreamsTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/x000nio/test/ZipandoTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/y000serializacao/test/SerializacaoTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/y000serializacao/classes/Turma.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/y000serializacao/classes/Aluno.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000colecoes/classes/Celular.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/EqualsTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ListCelularTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/SortListTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/SortProdutosTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ConvercaoListArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/IteratorTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/SetTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes/Celular.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes/Produto.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/TreeSetTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes/Consumidor.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ConsumidorMapTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/TreeMapTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/QueueTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/GenericsTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/WildCardTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/classes/Carro.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/classes/Computador.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/ClassNoGenericTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/ClassGenericTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/GenericMethodTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas/test/ClassesInternasTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas/test/LocaleClassesTest.java" />
@@ -115,12 +258,46 @@
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/ConnectionTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CompradorDB.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/classes/Carro.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/TestCRUD.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CompradorCRUD.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CompradorDAO.java" />
-        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAO.java" />
         <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ContaTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Conta.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadSafeTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Queue.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/ListaMembros.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Entregador.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/EntregadorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LockTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/ListaMembros.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/EntregadorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CopyOnWriteTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaColecoesTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LinkedTransferQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ExecutorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ScheduledThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CallableTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/PessoaTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Aviao.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingleton.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingletonEnum.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoSingletonEnumTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAO.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Moeda.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pais.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/MoedaFactory.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/interfaces/DAO.java" />
+        <option value="$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/MoedaFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -136,6 +313,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -151,6 +329,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaOnline" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaOnline" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaOnline" type="616d4139:PackageViewModuleNode" />
+              <item name="br.com.wlsnprogramming.aprendendojava" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaOnline" type="616d4139:PackageViewModuleNode" />
+              <item name="br.com.wlsnprogramming.aprendendojava" type="1f31426a:PackageElementNode" />
+              <item name="basico" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,38 +415,31 @@
               <item name="wlsnprogramming" type="462c0819:PsiDirectoryNode" />
               <item name="aprendendojava" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="zd000threads" type="462c0819:PsiDirectoryNode" />
+              <item name="zf000padroesdeprojeto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource Bundle 'messages'" type="a6c14932:ResourceBundleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaOnline" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaOnline" type="616d4139:PackageViewModuleNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wlsnprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="aprendendojava" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="zf000padroesdeprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaOnline" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaOnline" type="616d4139:PackageViewModuleNode" />
-              <item name="br.com.wlsnprogramming.aprendendojava" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaOnline" type="616d4139:PackageViewModuleNode" />
-              <item name="br.com.wlsnprogramming.aprendendojava" type="1f31426a:PackageElementNode" />
-              <item name="basico" type="1f31426a:PackageElementNode" />
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wlsnprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="aprendendojava" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="zf000padroesdeprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,15 +460,19 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\welso\IdeaProjects\JavaOnline\lib" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\welso\IdeaProjects\JavaOnline\src\br\com\wlsnprogramming\aprendendojava\javacore\ze000concorrencia\classes" />
+      <recent name="C:\Users\welso\IdeaProjects\JavaOnline\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.wlsnprogramming.aprendendojava.javacore.ze000concorrencia.test" />
       <recent name="br.com.wlsnprogramming.aprendendojava.javacore.z000colecoes.classes" />
       <recent name="br.com.wlsnprogramming.aprendendojava.javacore.f000modificadorestatico.tests" />
       <recent name="br.com.wlsnprogramming.aprendendojava.javacore.f000modificadorestatico.classes" />
       <recent name="br.com.wlsnprogramming.aprendendojava.javacore.introducaometodos.test" />
-      <recent name="br.com.wlsnprogramming.aprendendojava.javacore.introducaometodos.classes" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\welso\IdeaProjects\JavaOnline\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.wlsnprogramming.aprendendojava.javacore.zd000threads.classes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,146 +487,146 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadTest">
-    <configuration name="AnonymousClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zb000classesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zb000classesinternas.test.AnonymousClassTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
-    <configuration name="ClassesInternasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zb000classesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zb000classesinternas.test.ClassesInternasTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
-    <configuration name="ConnectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.test.ConnectionTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.z000colecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.z000colecoes.test.ListTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
-    <configuration name="StaticInternalClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zb000classesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zb000classesinternas.test.StaticInternalClassTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
-    <configuration name="TestCRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zc000jdbc.test.TestCRUD" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zd000threads.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zd000threads.test.ThreadTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOnline" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.MoedaFactoryTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="AviaoSingletonEnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.AviaoSingletonEnumTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
+    </configuration>
+    <configuration name="AviaoSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.AviaoSingletonTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
+    </configuration>
+    <configuration name="AviaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.AviaoTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
+    </configuration>
+    <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.ze000concorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.ze000concorrencia.test.CallableTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
+    </configuration>
+    <configuration name="MoedaFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.MoedaFactoryTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
+    </configuration>
+    <configuration name="PessoaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zf000padroesdeprojeto.test.PessoaTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
+    </configuration>
+    <configuration name="ThreadSafeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.wlsnprogramming.aprendendojava.javacore.zd000threads.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="br.com.wlsnprogramming.aprendendojava.javacore.zd000threads.test.ThreadSafeTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaOnline" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -462,12 +662,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -502,25 +696,34 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AnonymousClassTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StaticInternalClassTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ConnectionTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestCRUD" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreadTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CallableTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PessoaTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AviaoTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AviaoSingletonEnumTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MoedaFactoryTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreadTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestCRUD" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConnectionTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StaticInternalClassTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AnonymousClassTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MoedaFactoryTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AviaoSingletonEnumTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AviaoTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PessoaTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CallableTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -571,12 +774,20 @@
       <workItem from="1517318142605" duration="2465000" />
       <workItem from="1517326173825" duration="10014000" />
       <workItem from="1517401866263" duration="15155000" />
-      <workItem from="1517482531397" duration="1215000" />
+      <workItem from="1517482531397" duration="2531000" />
+      <workItem from="1518042286396" duration="1900000" />
+      <workItem from="1518120058152" duration="178000" />
+      <workItem from="1518371371737" duration="7228000" />
+      <workItem from="1518436970273" duration="11943000" />
+      <workItem from="1518519577764" duration="13965000" />
+      <workItem from="1518621199681" duration="134000" />
+      <workItem from="1518803483249" duration="3834000" />
+      <workItem from="1518871531161" duration="1917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236294000" />
+    <option name="totallyTimeSpent" value="278709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -589,8 +800,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34888652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -600,8 +811,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -625,273 +836,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="140" column="15" lean-forward="false" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23247">
-          <caret line="1164" column="25" lean-forward="false" selection-start-line="1164" selection-start-column="23" selection-end-line="1164" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ListCelularTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9492">
-          <caret line="475" column="17" lean-forward="false" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/SortListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/BinarySearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ConvercaoListArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/SortProdutosTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="19" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/IteratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="16" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes/Produto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1491">
-          <caret line="89" column="51" lean-forward="false" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes/Celular.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/TreeSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="25" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/classes/Consumidor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/ConsumidorMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/TreeMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="146" column="50" lean-forward="false" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/z000colecoes/test/QueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/GenericsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/classes/Computador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/ClassNoGenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/classes/Carro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/WildCardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-801">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/ClassGenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="81" lean-forward="true" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/za000generics/test/GenericMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas/test/ClassesInternasTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas/test/LocaleClassesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas/test/AnonymousClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zb000classesinternas/test/StaticInternalClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="531" column="14" lean-forward="false" selection-start-line="531" selection-start-column="14" selection-end-line="531" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/com/sun/rowset/JdbcRowSetImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1405" column="16" lean-forward="false" selection-start-line="1405" selection-start-column="16" selection-end-line="1405" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/com/sun/rowset/JoinRowSetImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1075" column="16" lean-forward="false" selection-start-line="1075" selection-start-column="16" selection-end-line="1075" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/javax/sql/RowSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1886" column="7" lean-forward="false" selection-start-line="1886" selection-start-column="7" selection-end-line="1886" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/javax/sql/RowSetEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/classes/MyRowSetListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/ConnectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -945,26 +895,357 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/Teste.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ContaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1021">
-          <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        <state relative-caret-position="1281">
+          <caret line="65" column="42" lean-forward="false" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/ThreadSafeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/DeadLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Queue.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/ListaMembros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/classes/Entregador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zd000threads/test/EntregadorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="698" column="29" lean-forward="false" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="59" column="56" lean-forward="false" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="77" lean-forward="false" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/Entregador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/classes/ListaMembros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3529">
+          <caret line="173" column="29" lean-forward="false" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13293">
+          <caret line="694" column="16" lean-forward="false" selection-start-line="694" selection-start-column="16" selection-end-line="694" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/EntregadorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/MapReadWriteLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CopyOnWriteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ConcorrenciaColecoesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/BlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/LinkedTransferQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/ScheduledThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/ze000concorrencia/test/CallableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="72" lean-forward="false" selection-start-line="0" selection-start-column="72" selection-end-line="0" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="e#716#717#0" expanded="false" />
+            <element signature="e#764#765#0" expanded="false" />
+            <element signature="e#1332#1333#0" expanded="false" />
+            <element signature="e#1415#1416#0" expanded="false" />
+            <element signature="e#1456#1457#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
+            <element signature="e#1535#1536#0" expanded="false" />
+            <element signature="e#1575#1576#0" expanded="false" />
+            <element signature="e#1610#1611#0" expanded="false" />
+            <element signature="e#1641#1642#0" expanded="false" />
+            <element signature="e#1689#1690#0" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1766#1767#0" expanded="false" />
+            <element signature="e#1799#1800#0" expanded="false" />
+            <element signature="e#1851#1852#0" expanded="false" />
+            <element signature="e#1895#1896#0" expanded="false" />
+            <element signature="e#1930#1931#0" expanded="false" />
+            <element signature="e#1961#1962#0" expanded="false" />
+            <element signature="e#2009#2010#0" expanded="false" />
+            <element signature="e#2049#2050#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/PessoaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Aviao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/test/AviaoSingletonEnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/db/CarroDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1518804030128" expanded="true" signature="743:807" ph="INSERT INTO carro... " />
+            <marker date="1518804030128" expanded="true" signature="1553:1581" ph="DELETE FROM carro... " />
+            <marker date="1518804030128" expanded="true" signature="2189:2238" ph="UPDATE carro... " />
+            <marker date="1518804030128" expanded="true" signature="2756:2775" ph="SELECT * FRO... carro" />
+            <marker date="1518804030128" expanded="true" signature="3533:3572" ph="SELECT * FRO... carro" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/test/CarroCRUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="55" column="59" lean-forward="false" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+          <folding>
+            <element signature="e#2341#2342#0" expanded="true" />
+            <element signature="e#2385#2386#0" expanded="true" />
+            <element signature="e#2432#2433#0" expanded="true" />
+            <element signature="e#2478#2479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Moeda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/Pais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/MoedaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingletonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000padroesdeprojeto/classes/AviaoSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zc000jdbc/interfaces/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/wlsnprogramming/aprendendojava/javacore/zf000pa/gdroesdeprojeto/test/MoedaFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -26,7 +26,7 @@ class ThreadExemploRunnable implements Runnable {
 
     private char c;
 
-    public ThreadExemploRunnable(char c) {
+    ThreadExemploRunnable(char c) {
         this.c = c;
     }
 
@@ -38,12 +38,17 @@ class ThreadExemploRunnable implements Runnable {
             if(i % 100 == 0) {
                 System.out.println();
             }
+            try {
+                Thread.sleep(2000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
     }
 }
 
 public class ThreadTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         System.out.println(Thread.currentThread().getName());
 //        ThreadExemplo threadExemplo = new ThreadExemplo('a');
 //        ThreadExemplo threadExemplo1 = new ThreadExemplo('b');
@@ -63,10 +68,15 @@ public class ThreadTest {
         Thread thread3 = new Thread(new ThreadExemploRunnable('d'));
         Thread thread4 = new Thread(new ThreadExemploRunnable('f'));
 
+        thread4.setPriority(Thread.MAX_PRIORITY);
+
         thread.start();
+
+        thread.join();
+
         thread1.start();
-        thread2.start();
-        thread3.start();
-        thread4.start();
+        //thread2.start();
+        //thread3.start();
+        //thread4.start();
     }
 }
