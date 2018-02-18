@@ -12,10 +12,10 @@ class Real implements Moeda {
     }
 }
 
- class USDolar implements Moeda {
+class USDolar implements Moeda {
 
-     @Override
-     public String getSimbolo() {
-         return "USD";
-     }
- }
+    @Override
+    public String getSimbolo() {
+        return "USD";
+    }
+}
